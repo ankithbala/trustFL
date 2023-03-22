@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "trustfl"
+version = "0.1.0"
+description = ""
+authors = ["Amardhruva <amaramardhruva@gmail.com>", "Ankith Bala <bala.ankith@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+torchvision = "^0.15.1"
+torchaudio = "^2.0.1"
+ipykernel = "^6.22.0"
+tqdm = "^4.65.0"
+matplotlib = "^3.7.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
