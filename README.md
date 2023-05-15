@@ -17,4 +17,5 @@ Extract and copy the pickle_datasets folder to datastets folder
 
 Now execute all notebooks or to run our proposed model
 `jupyter notebook`
+
 `Run trustfl_femnist_Floppy.ipynb`
