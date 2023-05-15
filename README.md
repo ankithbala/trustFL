@@ -1,4 +1,4 @@
-# trustFL
+# Floppy: Federated Learning on a Peer to Peer system
 Secure and Private Peer-to-Peer Federated Learning: A Distributed Approach to Collaborative Deep Learning
 
 ## Installation
