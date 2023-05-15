@@ -15,6 +15,8 @@ Download the preprocessed FEMNIST dataset from drive https://drive.google.com/fi
 Extract and copy the pickle_datasets folder to datastets folder
 `cp pickle_datasets trustFL\datasets`
 
+Ensure that `datasets/pickle_datasets/femnist` folder exists.
+
 Now execute all notebooks or to run our proposed model
 `jupyter notebook`
 
